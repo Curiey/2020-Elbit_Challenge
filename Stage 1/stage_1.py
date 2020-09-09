@@ -9,7 +9,7 @@ def function_one(text, unknown_base_number_location, number_base, constant):
     This function get a text, location, base for the location and constant number.
     and return the text at the current location base on the given base after multiple
     by the given constant.
-
+`
     :param text: String. for get the characters by there location.
     :param unknown_base_number_location: List. list of string representing the location in the given base.
     :param number_base: Int. base of the locations.
